@@ -2,3 +2,4 @@
 deepface
 streamlit
 tf-keras
+tensorflow
