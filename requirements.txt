@@ -1,5 +1,4 @@
 #python
 deepface
 streamlit
-tf-keras
-tensorflow
+pytorch
